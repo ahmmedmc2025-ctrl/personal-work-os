@@ -1,0 +1,17 @@
+{
+  "name": "Personal Work OS",
+  "short_name": "Work OS",
+  "description": "Personal Command Center for Projects, Tasks, Ideas, and Work Management",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8FA",
+  "theme_color": "#1034A8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
